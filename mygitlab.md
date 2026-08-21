@@ -87,19 +87,19 @@ gitlab очень долго загружается
 
 
 
-!\[](images/image14.png)
+![](images/image14.png)
 
 
 
-!\[](images/image22.png)
+![](images/image22.png)
 
 
 
-!\[](images/image8.png)
+![](images/image8.png)
 
 
 
-!\[](images/image43.png)
+![](images/image43.png)
 
 
 
@@ -107,7 +107,7 @@ gitlab очень долго загружается
 
 
 
-!\[](images/image17.png)
+![](images/image17.png)
 
 
 
@@ -179,7 +179,7 @@ user.save!
 
 
 
-!\[](images/image51.png)
+![](images/image51.png)
 
 
 
@@ -187,11 +187,11 @@ user.save!
 
 
 
-!\[](images/image4.png)
+![](images/image4.png)
 
 
 
-!\[](images/image47.png)
+![](images/image47.png)
 
 
 
@@ -203,7 +203,7 @@ user.save!
 
 
 
-!\[](images/image11.png)
+![](images/image11.png)
 
 
 
@@ -231,15 +231,15 @@ user.save!
 
 
 
-!\[](images/image29.png)
+![](images/image29.png)
 
 
 
-!\[](images/image7.png)
+![](images/image7.png)
 
 
 
-!\[](images/image49.png)
+![](images/image49.png)
 
 
 
@@ -267,19 +267,19 @@ user.save!
 
 
 
-!\[](images/image34.png)
+![](images/image34.png)
 
 
 
-!\[](images/image25.png)
+![](images/image25.png)
 
 
 
-!\[](images/image15.png)
+![](images/image15.png)
 
 
 
-!\[](images/image44.png)
+![](images/image44.png)
 
 
 
@@ -287,7 +287,7 @@ user.save!
 
 
 
-!\[](images/image24.png)
+![](images/image24.png)
 
 
 
@@ -311,11 +311,11 @@ golang:1.21
 
 
 
-!\[](images/image13.png)
+![](images/image13.png)
 
 
 
-!\[](images/image35.png)
+![](images/image35.png)
 
 
 
@@ -323,7 +323,7 @@ volumes = \\\["/cache", "/var/run/docker.sock:/var/run/docker.sock"\\]
 
 
 
-!\[](images/image26.png)
+![](images/image26.png)
 
 
 
@@ -351,19 +351,19 @@ volumes = \\\["/cache", "/var/run/docker.sock:/var/run/docker.sock"\\]
 
 
 
-!\[](images/image36.png)
+![](images/image36.png)
 
 
 
-!\[](images/image40.png)
+![](images/image40.png)
 
 
 
-!\[](images/image48.png)
+![](images/image48.png)
 
 
 
-!\[](images/image50.png)
+![](images/image50.png)
 
 
 
@@ -419,15 +419,15 @@ build:
 
 
 
-!\[](images/image37.png)
+![](images/image37.png)
 
 
 
-!\[](images/image5.png)
+![](images/image5.png)
 
 
 
-!\[](images/image33.png)
+![](images/image33.png)
 
 
 
@@ -455,39 +455,39 @@ git push mygitlab
 
 
 
-!\[](images/image19.png)
+![](images/image19.png)
 
 
 
-!\[](images/image39.png)
+![](images/image39.png)
 
 
 
-!\[](images/image45.png)
+![](images/image45.png)
 
 
 
-!\[](images/image31.png)
+![](images/image31.png)
 
 
 
-!\[](images/image6.png)
+![](images/image6.png)
 
 
 
-!\[](images/image3.png)
+![](images/image3.png)
 
 
 
-!\[](images/image28.png)
+![](images/image28.png)
 
 
 
-!\[](images/image38.png)
+![](images/image38.png)
 
 
 
-!\[](images/image21.png)
+![](images/image21.png)
 
 
 
@@ -623,7 +623,7 @@ services:
 
 
 
-!\[](images/image23.png)
+![](images/image23.png)
 
 
 
@@ -631,7 +631,7 @@ Gitlab запустился. но ранер работать не хочет
 
 
 
-!\[](images/image42.png)
+![](images/image42.png)
 
 
 
@@ -647,15 +647,15 @@ sudo nano /srv/gitlab-runner/config/config.toml
 
 
 
-!\[](images/image9.png)
+![](images/image9.png)
 
 
 
-!\[](images/image41.png)
+![](images/image41.png)
 
 
 
-!\[](images/image46.png)
+![](images/image46.png)
 
 
 
@@ -679,11 +679,11 @@ sudo sysctl -w vm.max\\\_map\\\_count=524288
 
 
 
-!\[](images/image27.png)
+![](images/image27.png)
 
 
 
-!\[](images/image1.png)
+![](images/image1.png)
 
 
 
